@@ -32,7 +32,7 @@ The `/journal` directory contains
 - [ ] [Week 12](journal/week12.md)
 - [ ] [Week 13](journal/week13.md)
 
-**My work on this oproject**
+**My (Diya's) work on this project**
 
 Architecture diagram in Lucid chart: https://lucid.app/lucidchart/a633c44c-595b-4020-8d85-d969ae535077/edit?viewport_loc=-179%2C-45%2C1579%2C903%2C0_0&invitationId=inv_4778821b-283c-412f-9670-5aa828b9c31a
 
